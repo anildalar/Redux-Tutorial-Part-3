@@ -1,0 +1,5 @@
+const BUY_LAPTOP='BUY_LAPTOP';
+const SELL_LAPTOP='SELL_LAPTOP';
+
+
+module.exports = { BUY_LAPTOP,SELL_LAPTOP };
